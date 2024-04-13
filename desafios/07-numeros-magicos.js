@@ -1,5 +1,5 @@
 function lookForUpdades() {}
 
-setInterval(lookForUpdades, 60 * 30 * 1000)
+setInterval(lookForUpdades, 60 * 30 * 1000) // 30 Minutes
 
-function calculateDiscount(price, discount) {}
+function calculateDiscount(priceInCents, discountInPercentage) {}
